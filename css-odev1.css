@@ -1,0 +1,33 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: 'Nabla', cursive;
+}
+
+#ilkid {
+    text-align: center;
+    list-style-position: inside;
+}
+
+a   {
+    font-family: 'Roboto', sans-serif;
+    color: bisque;
+    font-size: 20px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(245, 245, 245);
+    font-size: 20px;
+    list-style-position:inside
+}
+
+iframe {
+    align-items: center;
+    position:relative; top: 50px; left: 275px;
+   
+}
