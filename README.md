@@ -2,7 +2,7 @@
 ## This work completely Turkish.
 
 * I'm horticulture expert (agriculture engineer)
-* Now im self software student (W3)
+* Now i'm trying to learn software development (W3)
 
 **Contact with me!**
 * [Twitter](https://twitter.com/temjzz)
